@@ -4,4 +4,4 @@
 
 What is a Doctype? 
 
-*A keyword that alerts the browser on how to render content 
+*A keyword that alerts the browser on how to render content/process a file
